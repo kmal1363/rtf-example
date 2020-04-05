@@ -1,0 +1,14 @@
+{
+  "name": "back",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5"
+  },
+  "scripts": {
+    "dev-server": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
